@@ -1,4 +1,4 @@
-// Harshwardhan Babasaheb Darade
+// Ishan Raju Kasare
 // Task 2 - Number Guessing 
 //Java Programming
 
